@@ -1,0 +1,12 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="48" cy="48" r="38" fill="#FFFFFF" stroke="#FFA726" stroke-width="6"/>
+  <!-- Plate -->
+  <circle cx="48" cy="48" r="24" fill="#FFF3E0" stroke="#FFA726" stroke-width="3"/>
+  <!-- Fork -->
+  <rect x="28" y="32" width="4" height="24" rx="2" fill="#FFA726"/>
+  <rect x="27" y="32" width="2" height="8" rx="1" fill="#FFA726"/>
+  <rect x="31" y="32" width="2" height="8" rx="1" fill="#FFA726"/>
+  <!-- Spoon -->
+  <rect x="64" y="32" width="4" height="24" rx="2" fill="#FFA726"/>
+  <ellipse cx="66" cy="36" rx="3" ry="4" fill="#FFA726"/>
+</svg> 
